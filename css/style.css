@@ -91,9 +91,9 @@
 /* css for latest */
 	.section-title
 	{
-		font-size: 18px;
-		font-weight: 600;
-		padding: 5px 0;
+		font-size: 15px;
+		font-weight: bold;
+		margin-bottom: 20px;
 	}
 
 	.latest
