@@ -307,6 +307,18 @@
 		width: 3%;
 		height: 50px;
 	}
+
+	.sosha-media
+	{
+		width: 20%;
+		height: 35px;
+	}
+
+	.sosha-media-con
+	{
+		width: 15%;
+		height: 35px;
+	}
 /* css for footer ends */
 
 /* css for page responsiveness */
@@ -544,6 +556,16 @@
 
 		/* 425 footer */
 			.go-up
+			{
+				width: 10%;
+			}
+
+			.sosha-media
+			{
+				width: 10%;
+			}
+
+			.sosha-media-con
 			{
 				width: 10%;
 			}
