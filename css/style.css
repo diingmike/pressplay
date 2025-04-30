@@ -400,6 +400,13 @@
 			width: 100%;
 			height: 350px;
 		}
+
+		/* 768 footer */
+			.go-up
+			{
+				width: 6%;
+			}
+		/* 768 footer ends */
 	}
 
 	@media screen and (max-width:425px)
@@ -534,6 +541,13 @@
 			width: 100%;
 			height: 350px;
 		}
+
+		/* 425 footer */
+			.go-up
+			{
+				width: 10%;
+			}
+		/* 425 footer ends */
 	}
 
 	@media screen and (max-width:320px)
@@ -580,5 +594,12 @@
 			width: 100%;
 			height: 350px;
 		}
+
+		/* 320 footer */
+			.go-up
+			{
+				width: 15%;
+			}
+		/* 320 footer ends */
 	}
 /* css for page responsiveness ends */
