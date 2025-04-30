@@ -333,9 +333,9 @@
 	{
 		.latest img
 		{
-			flex: 1 1 calc(33.33% - 10px); /* 25% for 4 images */
-			max-width: calc(33.33% - 10px);
-			height: 350px;
+			flex: 1 1 calc(33.33% - 20px); /* 25% for 4 images */
+			max-width: calc(33.33% - 20px);
+			height: 500px;
 			border-radius: 3px;
 			box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 		}
@@ -578,7 +578,7 @@
 		/* 425 footer */
 			.go-up
 			{
-				width: 10%;
+				width: 12%;
 			}
 
 			.sosha-media
@@ -648,7 +648,7 @@
 		/* 320 footer */
 			.go-up
 			{
-				width: 15%;
+				width: 17%;
 			}
 		/* 320 footer ends */
 	}
