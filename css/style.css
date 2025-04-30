@@ -257,6 +257,13 @@
 		height: 480px;
 		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 	}
+
+	.back-to-prev
+	{
+		width: 2%;
+		height: 30px;
+		margin-bottom: 10px;
+	}
 /* css for catalogue ends */
 
 /* css for footer */
@@ -333,6 +340,13 @@
 			box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 		}
 
+		/* 768 catalogue */
+			.back-to-prev
+			{
+				width: 4%;
+			}
+		/* 768 catalogue ends */
+		
 		.catalogue
 		{
 			display: grid;
@@ -476,6 +490,13 @@
 			grid-gap: 30px;
 		}
 
+		/* 425 catalogue */
+			.back-to-prev
+			{
+				width: 6%;
+			}
+		/* 425 catalogue ends */
+		
 		.catalogue
 		{
 			display: grid;
@@ -583,6 +604,13 @@
 			box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 		}
 
+		/* 320 catalogue */
+			.back-to-prev
+			{
+				width: 8%;
+			}
+		/* 320 catalogue ends */
+		
 		.catalogue
 		{
 			display: grid;
