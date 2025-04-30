@@ -297,6 +297,16 @@
 		font-weight: 600;
 		padding: 5px 0;
 	}
+
+	.go-up
+	{
+		position: fixed;
+		right: 0;
+		top: 90%;
+		margin-right: 30px;
+		width: 3%;
+		height: 50px;
+	}
 /* css for footer ends */
 
 /* css for page responsiveness */
